@@ -1,0 +1,87 @@
+{
+  "title": "120h Mega Techno Obecności",
+  "date": "2026-05-02",
+  "structure": "nolan",
+  "model": "moonshotai/kimi-k2.5",
+  "engine": "chatterbox",
+  "duration_estimate_s": 426.2,
+  "voices": [
+    "archiwistka",
+    "wiktoria",
+    "peter",
+    "mikolaj",
+    "ewa"
+  ],
+  "scene_count": 12,
+  "source_narrative": "/home/macstorm/cuktai/repo/episodes/produced/EP004_120h-mega-techno-obecno-ci_20260502-1021/voices_en.json",
+  "audio_file": "/home/macstorm/cuktai/repo/episodes/produced/EP004_120h-mega-techno-obecno-ci_20260502-1021/episode.mp3",
+  "chapters": [
+    {
+      "time": "0:00",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "0:36",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "1:10",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "1:33",
+      "title": "cicho, jakby do siebie",
+      "voice": "mikolaj"
+    },
+    {
+      "time": "2:10",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "2:52",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "3:33",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "4:13",
+      "title": "cicho, jakby do siebie",
+      "voice": "mikolaj"
+    },
+    {
+      "time": "4:39",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "5:14",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "5:51",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "6:19",
+      "title": "głos z systemu, echo",
+      "voice": "wiktoria"
+    }
+  ],
+  "summary": "",
+  "open_questions": [],
+  "referenced_projects": [
+    "120h Mega Techno Obecności"
+  ],
+  "canon_facts_used": [],
+  "connections": []
+}

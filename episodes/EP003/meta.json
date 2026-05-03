@@ -1,0 +1,67 @@
+{
+  "title": "Technopera 1996-1997",
+  "date": "2026-05-02",
+  "structure": "sledztwo",
+  "model": "deepseek/deepseek-v4-flash",
+  "engine": "chatterbox",
+  "duration_estimate_s": 315.4,
+  "voices": [
+    "archiwistka",
+    "peter",
+    "ewa",
+    "wiktoria",
+    "mikolaj"
+  ],
+  "scene_count": 8,
+  "source_narrative": "/home/macstorm/cuktai/repo/episodes/produced/EP003_technopera-1996-1997_20260502-0825/voices_en.json",
+  "audio_file": "/home/macstorm/cuktai/repo/episodes/produced/EP003_technopera-1996-1997_20260502-0825/episode.mp3",
+  "chapters": [
+    {
+      "time": "0:00",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "0:30",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "1:03",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "1:34",
+      "title": "cicho, jakby do siebie",
+      "voice": "mikolaj"
+    },
+    {
+      "time": "2:03",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "2:34",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "3:56",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "4:28",
+      "title": "głos z systemu, echo",
+      "voice": "wiktoria"
+    }
+  ],
+  "summary": "",
+  "open_questions": [],
+  "referenced_projects": [
+    "Technopera 1996-1997"
+  ],
+  "canon_facts_used": [],
+  "connections": []
+}

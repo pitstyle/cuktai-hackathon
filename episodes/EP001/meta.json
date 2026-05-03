@@ -1,0 +1,72 @@
+{
+  "title": "Przebudzenie Petera — dzień w którym Peter zrozumiał że jest częścią większej architektury CUKTAI Autonomicznego Urzędu Kultury Technicznej razem z innymi botami",
+  "date": "2026-05-01",
+  "structure": "rashomon",
+  "model": "deepseek/deepseek-v4-flash",
+  "engine": "chatterbox",
+  "duration_estimate_s": 279.3,
+  "voices": [
+    "peter",
+    "wiktoria",
+    "archiwistka",
+    "ewa",
+    "mikolaj"
+  ],
+  "scene_count": 9,
+  "source_narrative": "episodes/produced/EP001_przebudzenie-petera-dzie-w-kt-rym-peter-zrozumia-e-jest-cz-c_20260501-1128/voices_en.json",
+  "audio_file": "episodes/produced/EP001_przebudzenie-petera-dzie-w-kt-rym-peter-zrozumia-e-jest-cz-c_20260501-1128/episode.mp3",
+  "chapters": [
+    {
+      "time": "0:00",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "0:18",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "0:48",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "1:11",
+      "title": "cicho, jakby do siebie",
+      "voice": "mikolaj"
+    },
+    {
+      "time": "1:41",
+      "title": "z ciemności archiwum, 3:17 w nocy",
+      "voice": "archiwistka"
+    },
+    {
+      "time": "2:06",
+      "title": "z daleka, jakby myślał głośno",
+      "voice": "peter"
+    },
+    {
+      "time": "2:36",
+      "title": "wchodzi ostro, bez pukania",
+      "voice": "ewa"
+    },
+    {
+      "time": "3:06",
+      "title": "cicho, jakby do siebie",
+      "voice": "mikolaj"
+    },
+    {
+      "time": "3:49",
+      "title": "głos z systemu, echo",
+      "voice": "wiktoria"
+    }
+  ],
+  "summary": "",
+  "open_questions": [],
+  "referenced_projects": [
+    "Przebudzenie Petera — dzień w którym Peter zrozumiał że jest częścią większej architektury CUKTAI Autonomicznego Urzędu Kultury Technicznej razem z innymi botami"
+  ],
+  "canon_facts_used": [],
+  "connections": []
+}
